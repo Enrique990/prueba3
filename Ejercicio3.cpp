@@ -9,3 +9,20 @@
 
 #include<iostream>
 using namespace std;
+bool palindromo();
+char caracteres[20];
+
+int main(int argc, char const *argv[])
+{
+    char caracteres[20];
+    cout << "Ingrese una palabra para ver si es palíndromo"<<endl;
+    cin>>caracteres;
+    return 0;
+}
+
+bool palindromo(){
+    if (caracteres)
+    {
+        /* code */
+    }
+}
